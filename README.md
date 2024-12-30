@@ -46,5 +46,5 @@ Windowsでのcurl.exeでは、マルチバイトを正常に処理できずWebHo
 
 1. exeをビルド
     ```
-    pyinstaller --onefile --console --clean --icon=image/icon.bmp discord_webhook.py
+    pyinstaller --onefile --console --clean --icon=image/app.ico discord_webhook.py
     ```
